@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # secondvue
+=======
+# firstvue
 ![image1.png](image/image1.png)
 
 > 如何使用
